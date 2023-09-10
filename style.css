@@ -1,0 +1,121 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #007BFF, #e0e0ff);
+    color: #333;
+  }
+  
+  
+  .navbar {
+    background-color: #007BFF;
+    color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 3px 0;
+  }
+  
+  
+  #city {
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  #submit {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  
+  .card {
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  th {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+    transition: background-color 0.3s ease;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    color: #0a0a0a;
+    margin-bottom: 20px;
+  }
+  
+  
+  .card-header h4 {
+    background: linear-gradient(to right, #007BFF, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  
+
+  footer {
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to bottom, #333, #222);
+    color: #fff;
+  }
+  
+  
+
+  .card:hover {
+    transform: scale(1.05); 
+    transition: transform 0.3s ease; 
+  }
+  tr:hover {
+    background-color: #f8f8f8; 
+    transition: background-color 0.3s ease; 
+  }
+
+
+  .title {
+    font-family: 'Arial', sans-serif;
+    font-size: 40px; /* Adjust the font size as needed */
+    color: #007BFF; /* Your preferred text color */
+     /* Uppercase the text */
+    letter-spacing: 4px; /* Add letter spacing for a modern look */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle text shadow */
+  }
+  
+  
+  .y {
+    font-size: 40px; /* Increase the size of the letter "Y" */
+    font-weight: bold; /* Make it bold */
+    color: #FF5722;
+    text-transform: uppercase; /* A different color for the "Y" */
+  }
