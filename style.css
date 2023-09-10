@@ -105,17 +105,17 @@ body {
 
   .title {
     font-family: 'Arial', sans-serif;
-    font-size: 40px; /* Adjust the font size as needed */
-    color: #007BFF; /* Your preferred text color */
-     /* Uppercase the text */
-    letter-spacing: 4px; /* Add letter spacing for a modern look */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle text shadow */
+    font-size: 40px; 
+    color: #007BFF; 
+     
+    letter-spacing: 4px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
   }
   
   
   .y {
-    font-size: 40px; /* Increase the size of the letter "Y" */
-    font-weight: bold; /* Make it bold */
+    font-size: 40px; 
+    font-weight: bold; 
     color: #FF5722;
-    text-transform: uppercase; /* A different color for the "Y" */
+    text-transform: uppercase; 
   }
